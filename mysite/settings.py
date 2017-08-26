@@ -25,7 +25,7 @@ SECRET_KEY = '$@g_^sqhs7d)=tg_ao-%ms^@o#kvtmjzk0mb4swzjtw7p$5(rx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['snowshite.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
